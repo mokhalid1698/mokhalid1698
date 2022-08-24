@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Khalid</h1>
-<h3 align="center">A passionate frontend developer from Egypt</h3>
+<h3 align="center">A Flutter developer from Egypt</h3>
 
 - 📫 How to reach me **mo.khalid2212@gmail.com**
 
